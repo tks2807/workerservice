@@ -1,0 +1,9 @@
+/Users/imac/Desktop/projects/c#/WorkerFolderService/EmailService/bin/Debug/netcoreapp3.1/EmailService.deps.json
+/Users/imac/Desktop/projects/c#/WorkerFolderService/EmailService/bin/Debug/netcoreapp3.1/EmailService.dll
+/Users/imac/Desktop/projects/c#/WorkerFolderService/EmailService/bin/Debug/netcoreapp3.1/EmailService.pdb
+/Users/imac/Desktop/projects/c#/WorkerFolderService/EmailService/obj/Debug/netcoreapp3.1/EmailService.csprojAssemblyReference.cache
+/Users/imac/Desktop/projects/c#/WorkerFolderService/EmailService/obj/Debug/netcoreapp3.1/EmailService.AssemblyInfoInputs.cache
+/Users/imac/Desktop/projects/c#/WorkerFolderService/EmailService/obj/Debug/netcoreapp3.1/EmailService.AssemblyInfo.cs
+/Users/imac/Desktop/projects/c#/WorkerFolderService/EmailService/obj/Debug/netcoreapp3.1/EmailService.csproj.CoreCompileInputs.cache
+/Users/imac/Desktop/projects/c#/WorkerFolderService/EmailService/obj/Debug/netcoreapp3.1/EmailService.dll
+/Users/imac/Desktop/projects/c#/WorkerFolderService/EmailService/obj/Debug/netcoreapp3.1/EmailService.pdb
